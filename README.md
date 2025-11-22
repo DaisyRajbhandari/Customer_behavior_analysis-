@@ -3,7 +3,7 @@
 🔍 Overview
 
 This project delivers an end-to-end data analytics workflow using a real-world customer shopping behavior dataset.
-It covers the entire pipeline—from loading data in Python, cleaning and exploring it, storing it in PostgreSQL, querying it with SQL, and visualizing insights through a Power BI dashboard.
+It covers the entire pipeline from loading data in Python, cleaning and exploring it, storing it in PostgreSQL, querying it with SQL, and visualizing insights through a Power BI dashboard.
 
 The goal is to demonstrate practical, job-ready skills in data analysis, SQL, database handling, and dashboard building.
 
