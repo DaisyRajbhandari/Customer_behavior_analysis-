@@ -1,4 +1,5 @@
 📊 Customer Behavior Analysis — Data Analytics Project
+
 🔍 Overview
 
 This project delivers an end-to-end data analytics workflow using a real-world customer shopping behavior dataset.
